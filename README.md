@@ -1,4 +1,4 @@
-# Kraggle houseprice competition
+# Kaggle houseprice competition
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 Data fields
