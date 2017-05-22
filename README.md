@@ -2,7 +2,7 @@
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 score:0.11722
-rank(226/2506) in March 2017
+rank(226/2206) in March 2017
 
 
 Model_predict.ipynb : Test the different models  and ensemble model with xgboost and various regression models.  
